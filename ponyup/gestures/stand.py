@@ -1,0 +1,3 @@
+def stand():
+    print("stand!")
+
