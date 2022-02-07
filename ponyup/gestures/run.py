@@ -1,3 +1,3 @@
-def run()
+def run():
     print("run!")
 
